@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "nature_arise:example_boat"
+    }
+  ],
+  "result": {
+    "item": "nature_arise:example_chest_boat"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "nature_arise:example_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "nature_arise:example_planks"
+  }
+}

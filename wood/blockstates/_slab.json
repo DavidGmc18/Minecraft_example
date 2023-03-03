@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nature_arise:block/example_slab"
+    },
+    "type=double": {
+      "model": "nature_arise:block/example_planks"
+    },
+    "type=top": {
+      "model": "nature_arise:block/example_slab_top"
+    }
+  }
+}
